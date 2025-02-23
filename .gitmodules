@@ -8,3 +8,6 @@
 	path = lib/socket-protocol
 	url = https://github.com/SocketDotTech/socket-protocol
 	branch = staging
+[submodule "lib/reclaim-solidity-sdk"]
+	path = lib/reclaim-solidity-sdk
+	url = https://github.com/reclaimprotocol/reclaim-solidity-sdk
